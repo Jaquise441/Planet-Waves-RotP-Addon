@@ -1,0 +1,18 @@
+{
+  "entity.rotp_pw.pw": "Planet Waves",
+  "stand.rotp_pw.pw": "Planet Waves",
+  "action.rotp_pw.planet_waves_punch": "Punch",
+  "action.rotp_pw.planet_waves_grab": "Grab Entity",
+  "action.rotp_pw.planet_waves_barrage": "Barrage",
+  "action.rotp_pw.planet_waves_heavy_punch": "Heavy Punch",
+  "action.rotp_pw.planet_waves_block": "Block",
+
+  "action.rotp_pw.planet_waves_vertical": "Vertical Meteorite Attraction",
+  "action.rotp_pw.planet_waves_horizontal": "Horizontal Meteorite Attraction",
+  "action.rotp_pw.planet_waves_diagonal": "Diagonal Meteorite Attraction",
+  "action.rotp_pw.planet_waves_vertical_shower": "Vertical Meteorite Shower",
+  "action.rotp_pw.planet_waves_horizontal_shower": "Horizontal Meteorite Shower",
+  "action.rotp_pw.planet_waves_diagonal_shower": "Diagonal Meteorite Shower",
+
+  "jojo.message.action_condition.no_target": "There's no entity for Planet Waves to grab a hold of."
+}
